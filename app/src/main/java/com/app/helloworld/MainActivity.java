@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 btn.setTextSize(1);
-                tv.setText("Hello Natasha");
+                tv.setText("Hello from Natasha");
                 tv.setTextSize(50);
                 btn.setBackgroundColor(Color.parseColor("#FF00AA"));
                 tv.setTextColor(Color.parseColor("#FFFAB0"));
